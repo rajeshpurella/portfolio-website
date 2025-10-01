@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rajesh Purella - Portfolio Website
 
 A cutting-edge, production-ready portfolio website built with modern web technologies and optimized for performance, accessibility, and SEO.
@@ -142,3 +143,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Built with 💙 using React + TypeScript + Tailwind CSS
+=======
+# portfolio-website
+Portfolio website built with React + Vite + TypeScript
+>>>>>>> 82a526f1d57c484c46b1e855552010dc5f8d883d
